@@ -11,13 +11,49 @@
 # ===============================================================
 
 
-127.0.0.1 doubleclick.net 
-127.0.0.1 googlesyndication.com
-127.0.0.1 googleadservices.com
-127.0.0.1 google-analytics.com
-127.0.0.1 ads.youtube.com
-127.0.0.1 adserver.yahoo.com
-127.0.0.1 ask.com
+0.0.0.0 marketingplatform.google.com
 
 
+# Added June 17, 2021
+0.0.0.0 ssl.googleanalytics.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 alt2.googleanalytics.com
+0.0.0.0 alt4.googleanalytics.com
+0.0.0.0 sandbox.googleanalytics.com
+0.0.0.0 admobclick.com
+0.0.0.0 www.admobclick.com
+0.0.0.0 pixel.admobclick.com
+
+
+# [doubleclick.net]
+0.0.0.0 doubleclick.net
+0.0.0.0 accounts.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 ff.doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 3243857.fls.doubleclick.net
+0.0.0.0 4394967.fls.doubleclick.net
+0.0.0.0 5290727.fls.doubleclick.net
+0.0.0.0 8168974.fls.doubleclick.net
+0.0.0.0 8272590.fls.doubleclick.net
+0.0.0.0 8397396.fls.doubleclick.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 adx.g.doubleclick.net
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 g1.doubleclick.net
+0.0.0.0 ads-bid.l.doubleclick.net
+0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 stats.l.doubleclick.net
+0.0.0.0 m.doubleclick.net
+
+0.0.0.0 static.doubleclick.net
 
