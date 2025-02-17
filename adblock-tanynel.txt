@@ -1,0 +1,23 @@
+# Title: adblock-tanynel/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 17 February 2025 12:38:43 (UTC)
+# Number of unique domains: 7
+#
+# Fetch the latest version of this file: https://github.com/tanynel/adblock/blob/main/unbound.raw
+#
+# ===============================================================
+
+
+127.0.0.1 doubleclick.net 
+127.0.0.1 googlesyndication.com
+127.0.0.1 googleadservices.com
+127.0.0.1 google-analytics.com
+127.0.0.1 ads.youtube.com
+127.0.0.1 adserver.yahoo.com
+127.0.0.1 ask.com
+
+
+
